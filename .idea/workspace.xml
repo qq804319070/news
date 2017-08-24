@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/.gitiignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -248,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1503582297340</updated>
       <workItem from="1503582298742" duration="1724000" />
-      <workItem from="1503584128504" duration="641000" />
+      <workItem from="1503584128504" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="server">
       <created>1503584322117</created>
@@ -261,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2365000" />
+    <option name="totallyTimeSpent" value="2410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="468" y="0" width="1005" height="1040" extended-state="0" />
@@ -348,7 +348,7 @@
     <entry file="file://$PROJECT_DIR$/.gitiignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
