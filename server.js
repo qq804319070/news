@@ -3,7 +3,7 @@ let express = require('express'),
     path = require('path'),
     app = express();
 
-app.use(express.static("public"));
+app.use(express.static("staticFile"));
 
 
 
