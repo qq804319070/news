@@ -8,4 +8,6 @@ app.use(express.static("./public"));
 
 
 
-app.listen(8080);
+app.listen(8080,'localhost',function () {
+    console.log("监听8080端口成功");
+});
